@@ -8,4 +8,4 @@ Our Persian stance classification dataset is being provided to you under license
 
 # The Related Paper
 
-Our academic paper which describes our dataset in detail and provides full results can be found here: https://truthandtrustonline.files.wordpress.com/2019/10/paper_30.pdf .
+Our academic paper which describes the process of building our dataset in detail and provides full results can be found here: https://truthandtrustonline.files.wordpress.com/2019/10/paper_30.pdf .
