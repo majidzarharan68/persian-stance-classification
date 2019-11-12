@@ -2,7 +2,11 @@
 
 We released here a Persian dataset which can be used for a number of NLP tasks in the context of fact-checking. Although this dataset can be used for fact-checking and summarization, the focus of this work is on stance classification as a stepping stone for fake news detection in Persian language.
 
-After collecting articles, for each claim we allocate three labels; first label is article (body text) stance according to the claim (article-claim stance), second label is article’s headline stance according to the claim (headline-claim stance) and the third one is article (body text) stance according to its headline (article-headline stance). We release here article-claim stance as ArticleToClaim.txt file and headline-claim stance as HeadlineToClaim.txt file.
+In order to collect this dataset, after collecting articles, for each claim we allocate three labels; first label is article (body text) stance according to the claim (article-claim stance), second label is article’s headline stance according to the claim (headline-claim stance) and the third one is article (body text) stance according to its headline (article-headline stance). We release here article-claim stance as ArticleToClaim.txt file and headline-claim stance as HeadlineToClaim.txt file.
+
+We prepared a guideline in both English and Persian language, which consists of notes, suggestions and examples about stance labels. The file named GuidLine_FA.pdf contains Persian guideline and the file named GuideLine_EN.pdf contains English guideline. 
+
+Other sections of the dataset, our experiments and our data collection tools will be released soon.
 
 # The Dataset License 
 
