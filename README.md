@@ -6,7 +6,7 @@ In order to collect this dataset, after collecting articles, for each claim we a
 
 We prepared a guideline in both English and Persian language, which consists of notes, suggestions and examples about stance labels. The file named GuidLine_FA.pdf contains Persian guideline and the file named GuideLine_EN.pdf contains English guideline. 
 
-Other sections of the dataset, our experiments and our data collection tools will be released soon.
+Other sections of the dataset and our data collection tools will be released soon.
 
 # The Dataset License 
 
