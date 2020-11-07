@@ -8,7 +8,7 @@ In addition, we have released FullDataset.txt, this dataset can be used in order
 
 We prepared a guideline in both English and Persian language, which consists of notes, suggestions and examples about stance labels. The file named GuidLine_FA.pdf contains Persian guideline and the file named GuideLine_EN.pdf contains English guideline. 
 
-***You can find new version of codes and dataset for stance detection in my primary github account [here](https://github.com/Zarharan/PersianStanceDetection) ***
+**You can find new version of codes and dataset for stance detection in my primary github account [here](https://github.com/Zarharan/PersianStanceDetection) **
 
 # The Dataset License 
 
