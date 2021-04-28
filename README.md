@@ -1,3 +1,5 @@
+**You can find new versions of my codes and datasets for stance detection in my primary github account** [here](https://github.com/Zarharan/PersianStanceDetection).
+
 # Persian Stance Classification
 
 We released here a Persian dataset which can be used for a number of NLP tasks in the context of fact-checking. Although this dataset can be used for fact-checking and summarization, the focus of this work is on stance classification as a stepping stone for fake news detection in Persian language.
@@ -7,8 +9,6 @@ In addition, we have released FullDataset.txt, this dataset can be used in order
 
 
 We prepared a guideline in both English and Persian language, which consists of notes, suggestions and examples about stance labels. The file named GuidLine_FA.pdf contains Persian guideline and the file named GuideLine_EN.pdf contains English guideline. 
-
-**You can find new versions of my codes and datasets for stance detection in my primary github account** [here](https://github.com/Zarharan/PersianStanceDetection).
 
 # The Dataset License 
 
